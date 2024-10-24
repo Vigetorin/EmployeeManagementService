@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EmployeeManagementService": {
+      "commandName": "Project",
+      "commandLineArgs": "5"
+    }
+  }
+}
